@@ -23,7 +23,9 @@ After that:\
 &nbsp; &nbsp; &nbsp; Enter the parameters as following format:\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -d 1 -m 3 -n 10 -p 0 -g 1 -s 1-l 1 \
      or:\
-&nbsp; &nbsp; &nbsp; To get help, type "-h" and press Enter 
+&nbsp; &nbsp; &nbsp; To get help, type "-h" and press Enter
+     or:\
+&nbsp; &nbsp; &nbsp; To quit, enter q
      
 
 ## Contact
