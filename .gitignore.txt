@@ -1,0 +1,19 @@
+# files and folders to be ignored
+
+
+# python specific files and folders
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# My Specified Files and folders
+datasets/
+LICENSE.md
+Learned_Tree.png
+*.log
+Learned_Tree
+Project_Description.pdf
+
+
+
