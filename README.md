@@ -16,7 +16,7 @@ In this projects, Binary Decision Tree algorithm is coded in python and then, it
 
 ## Run
 On command line, enter the following:\
-&nbsp; &nbsp; &nbsp; Python Maim.py\
+&nbsp; &nbsp; &nbsp; Python Main.py\
 After that:\
 &nbsp; &nbsp; &nbsp; To run the code with default values, just press Enter, \
      or:\
